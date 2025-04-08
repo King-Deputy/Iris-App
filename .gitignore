@@ -1,0 +1,6 @@
+.vscode/
+AppData/
+*.log
+.env
+node_modules/
+_pycache_/
